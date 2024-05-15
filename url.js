@@ -8,8 +8,12 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/e/1FAIpQLSdo21PoQ-uWvulr-9GjwoK4Bmd1CIjeTHhxU7qHiFMV2Agbbg/viewform?usp=sf_link',
-	'https://docs.google.com/forms/d/e/1FAIpQLSdObWwYvIJT2mSE1KJoUnLPEua66S-DiyifL45fOgIteerD9A/viewform?usp=sf_link',
-	'https://docs.google.com/forms/d/e/1FAIpQLSfgQZjLkPAKpmIXFnNmnXNzaX25lwUFOsEBdCu96M0fjfnhRA/viewform?usp=sf_link',
-	'https://docs.google.com/forms/d/e/1FAIpQLSefm_QYEiAs4QyHgef3S0-SL_sIlOAF996EHvOPYkTKgNFI8w/viewform?usp=sf_link'
+	'https://docs.google.com/forms/d/e/1FAIpQLSfjWFUH6pe5Jl1X00tmaoyXylTwWhRoV696i4uceKysxFV6DA/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSd9NbMsrW_T1ARXN7uCseQifOiKoZqsv6ydqmpCAIsHV36J7A/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSddnsC2JqeOb2K3Ru2XMsE89VcViRT4WfJyOmryLdmX0_hpZQ/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSeDB1Pd8G1O4PA0e3pJAZDBVS3ZtGiU6aE3VtcLqaTZ-SBo-g/viewform?usp=sf_link',
+        'https://docs.google.com/forms/d/e/1FAIpQLSeaQ6N8RA7zHDQqZT5G-Bik9vvKS_qUn4vrZwfZvGBL95mzgg/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSdvyeFYxwSibxOFVmRp8lD5kpjP1YFDEb6oWibeG0X5sc3ftA/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSdSUHxwkJVWBCq_JyfrB04vlvlN7jF8Am6efxoDFbQV87exfw/viewform?usp=sf_link',
+        'https://docs.google.com/forms/d/e/1FAIpQLSeLS-GvwtQtionuFdfQt6snPtpc2Gr8D7xML6HqyBHtEF4YKA/viewform?usp=sf_link'
 ];
